@@ -1,0 +1,5 @@
+{
+  "name": "Photo Old Maker",
+  "description": "Convert ID cards and documents into straight, vintage-style laminated mobile photos using Gemini AI.",
+  "requestFramePermissions": []
+}
